@@ -21,13 +21,13 @@ Next.js는 React 기반의 웹 프레임워크로, 서버 사이드 렌더링, �
 ### naxt.js 설치방법
 
 1. `npx create-next-app@latest` 입력
-2. Would you like to use TypeScript? ... No / Yes = NO
-   Would you like to use ESLint? ... No / Yes = YES
-   Would you like to use Tailwind CSS? ... No / Yes = NO
-   Would you like to use `src/` directory? ... No / Yes = YES
-   Would you like to use App Router? (recommended) ... No / Yes = YES
-   Would you like to customize the default import alias (@/*)? ... No / Yes = YES
-   What import alias would you like configured? ... @/* = @
+2. `Would you like to use TypeScript? ... No / Yes` = NO   
+   `Would you like to use ESLint? ... No / Yes` = YES   
+   `Would you like to use Tailwind CSS? ... No / Yes` = NO   
+   `Would you like to use `src/` directory? ... No / Yes` = YES   
+   `Would you like to use App Router? (recommended) ... No / Yes` = YES   
+   `Would you like to customize the default import alias (@/*)? ... No / Yes` = YES   
+   `What import alias would you like configured? ... @/*` = @   
 3. `npm run dev`
 
 You can start editing the page by modifying `app/page.js`. 
